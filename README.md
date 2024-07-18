@@ -1,5 +1,5 @@
 ## Harpreet Singh - Portfolio
-! [My Picture]() 
+![My Picture](Image/Images.jpeg) 
 
 
 ### Personal Information
