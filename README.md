@@ -1,4 +1,6 @@
 ## Harpreet Singh - Portfolio
+! [My Picture]() 
+
 
 ### Personal Information
 - **Name:** Harpreet Singh
