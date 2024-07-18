@@ -16,13 +16,8 @@
   - Engaged in extracurricular activities, including debates, science fairs, and sports.
 
 #### B.Tech in Computer Science Engineering
-- **Institution:** [University/College Name] (if you want to specify, otherwise it can be left as it is)
+- **Institution:** Guru Nanak Dev Engineering College 
 - **Branch:** Computer Science Engineering
-- **Key Achievements:**
-  - Acquired a solid foundation in core computer science principles, including algorithms, data structures, and computer architecture.
-  - Gained hands-on experience in programming languages such as C, C++, Python, and Java.
-  - Developed a keen interest in areas such as machine learning, artificial intelligence, and software development.
-  - Completed various projects that demonstrate practical application of theoretical knowledge.
 
 ### Skills
 - **Programming Languages:** Little basics in in C, C++, Python, and Java.
@@ -32,3 +27,5 @@
 ### Future Goals
 - **Short-Term Goals:** To secure an internship or job opportunity that allows me to apply my skills and knowledge in a real-world setting, contributing to the success of the organization.
 - **Long-Term Goals:** To become a proficient software engineer, continuously learning and growing in the field, and making significant contributions to the advancement of technology.
+-**Start-up
+  **
