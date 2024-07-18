@@ -27,5 +27,5 @@
 ### Future Goals
 - **Short-Term Goals:** To secure an internship or job opportunity that allows me to apply my skills and knowledge in a real-world setting, contributing to the success of the organization.
 - **Long-Term Goals:** To become a proficient software engineer, continuously learning and growing in the field, and making significant contributions to the advancement of technology.
--**Start-up
+- **Start-up
   **
