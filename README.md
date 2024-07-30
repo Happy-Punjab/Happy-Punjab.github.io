@@ -1,3 +1,4 @@
+![IMG_20240730_132746](https://github.com/user-attachments/assets/848d263e-8c6e-4b19-bba8-b9773e357a94)
 ## Harpreet Singh - Portfolio
 ![My Picture](Image/images.jpeg) 
 
